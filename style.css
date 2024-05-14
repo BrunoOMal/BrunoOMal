@@ -41,3 +41,19 @@
     align-items: center;
     padding: 24px 0;
 }
+.apo {
+    background-color: #302947;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    text-align: center;
+    text-decoration-color: blue;
+    text-decoration-line: none;
+}
+.example {
+    text-align: center;
+    ;
+    scale: 100% 100%;
+}
